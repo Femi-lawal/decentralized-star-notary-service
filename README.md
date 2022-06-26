@@ -136,3 +136,15 @@ compilers: {
 ---
 
 Do not use the [Old depreacted zipped starter code](https://s3.amazonaws.com/video.udacity-data.com/topher/2019/January/5c51c4c0_project-5-starter-code/project-5-starter-code.zip)
+
+### Specify the Truffle version and OpenZeppelin version used in the project.
+* openzeppelin-solidity 2.3.0
+* compiler -> 0.5.16
+* truffle@5.5.18
+
+### Your ERC-721 Token Name
+- Starnotoken
+### Your ERC-721 Token Symbol
+- STN
+### Your “Token Address” on the Rinkeby Network
+0x4A4217899189AdfD9F14FacB4C77908BF01AD821
